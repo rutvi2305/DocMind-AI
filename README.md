@@ -255,8 +255,7 @@ The HuggingFace embedding model downloads once (~80MB) on first use. After that 
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details. Free to use, modify, and distribute.
-
+© 2026 Rutvi — All Rights Reserved
 ---
 
 ## 🙏 Acknowledgements
